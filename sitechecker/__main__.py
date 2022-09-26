@@ -1,6 +1,6 @@
 import sys
 import pathlib
-from sitechecker.checker import site_is_online, site_is_online_async
+from sitechecker.checker import site_is_online
 from sitechecker.cli import display_check_result, read_user_cli_args
 
 
