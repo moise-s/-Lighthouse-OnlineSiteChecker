@@ -18,6 +18,12 @@ Agora, ative o ambiente virtual:
 source venv/Scripts/activate
 ```
 
+Instale os pacotes necessários para rodar o programa:
+
+```
+pip3 install -r requirements.txt
+```
+
 Para rodar o programa, basta digitar as instruções, seguido de um ou mais websites, separados por `espaço`:
 
 ```
