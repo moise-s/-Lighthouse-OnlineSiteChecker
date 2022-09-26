@@ -3,7 +3,7 @@
 Para rodar o projeto, primeiro clone o repositório. Usando o terminal digite:
 
 ```
-git clone <URL>
+git clone https://github.com/moise-s/-Lighthouse-OnlineSiteChecker.git
 ```
 
 Usando git bash, crie um ambiente virtual para rodar o projeto:
