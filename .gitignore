@@ -1,1 +1,6 @@
 venv/
+-Lighthouse-OnlineSiteChecker/sitechecker/__pycache__
+sitechecker/__pycache__/__init__.cpython-38.pyc
+sitechecker/__pycache__/__main__.cpython-38.pyc
+sitechecker/__pycache__/checker.cpython-38.pyc
+sitechecker/__pycache__/cli.cpython-38.pyc
