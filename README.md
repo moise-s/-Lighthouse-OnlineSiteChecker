@@ -15,7 +15,7 @@ python -m venv venv
 Agora, ative o ambiente virtual:
 
 ```
-source venv/Scripts/activate
+source venv/bin/activate
 ```
 
 Instale os pacotes necessários para rodar o programa:
